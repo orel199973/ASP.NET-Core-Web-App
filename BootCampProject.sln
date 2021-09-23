@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootCampProject", "BootCampProject\BootCampProject.csproj", "{18F83673-679B-4128-97FB-5C0CDF0FDEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F83673-679B-4128-97FB-5C0CDF0FDEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F83673-679B-4128-97FB-5C0CDF0FDEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F83673-679B-4128-97FB-5C0CDF0FDEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F83673-679B-4128-97FB-5C0CDF0FDEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743DDABF-7A04-4F9C-B191-E1DA8B5A3745}
+	EndGlobalSection
+EndGlobal
