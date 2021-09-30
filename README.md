@@ -9,8 +9,8 @@
 ## 3 - Checked csproj again, what changed.
 ![image](https://user-images.githubusercontent.com/47865329/135426408-cf7ca759-b464-4bd6-81d3-a4f8654d9b96.png)
 
-# 4 - I did restore nugget packages.
-# 5 - I have published your application.
+## 4 - I did restore nugget packages.
+## 5 - I have published your application.
 
 ## 6 - Indeed these are the files we received:
 ![image](https://user-images.githubusercontent.com/47865329/135427843-e91608c3-cd87-4e1a-a683-d409f477bd58.png)
